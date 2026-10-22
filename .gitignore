@@ -1,0 +1,8 @@
+venv_win/
+_pycache_/
+*.exe
+*.spec
+build/
+dist/
+.env
+trades_data.json
